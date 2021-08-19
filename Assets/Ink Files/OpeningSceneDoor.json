@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[[["^Esta cerrada del otro lado.","\n","end",["done",{"#f":5,"#n":"g-1"}],{"#f":5,"#n":"g-0"}],null],"done",{"asignar_contiene_item":[{"temp=":"x"},"ev",{"VAR?":"x"},"/ev",{"VAR=":"contiene_item","re":true},{"#f":1}],"global decl":["ev",0,{"VAR=":"contiene_item"},"/ev","end",null],"#f":1}],"listDefs":{}}

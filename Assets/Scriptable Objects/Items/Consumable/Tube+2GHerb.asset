@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a18825b6ca095460aa3049fb7d009272, type: 3}
+  m_Name: Tube+2GHerb
+  m_EditorClassIdentifier: 
+  type: 2
+  name: Mezcla 2 hierbas
+  icon: {fileID: 5636681139524137756, guid: e9eebaa0cf3754141985954b29b3e019, type: 3}
+  ID: 6
+  description: Cura completamente la salud.
+  isCombinable: 0
+  isConsumable: 1
+  restoreHealthValue: 10
